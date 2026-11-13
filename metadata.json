@@ -1,0 +1,6 @@
+{
+  "name": "Piku - Mobile Task, Timeframe & Reminder Tracker",
+  "description": "Ultra-lightweight mobile-native task planner, 24-hour time utilization logger with 4 categories, 30-minute chatty nudges, personal reminders, daily habit timing, and Jan-Dec analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
